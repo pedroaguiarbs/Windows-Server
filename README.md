@@ -13,4 +13,4 @@ Este projeto tem como objetivo criar uma documentação detalhada sobre a implem
 
 Este projeto não apenas fornece um guia prático para a configuração de um servidor Windows Server 2019, mas também serve como um recurso educacional para estudantes e profissionais que desejam aprofundar seus conhecimentos em administração de servidores e serviços de rede.
 
-[Wiki Completa do Projeto!]([https://github.com/pedroaguiarbs/Projeto-Packet-Tracer/wiki/Wiki-%E2%80%90-Projeto-Packet-Tracer](https://github.com/pedroaguiarbs/Windows-Server/wiki)) 🚀
+[Wiki Completa do Projeto!](https://github.com/pedroaguiarbs/Windows-Server/wiki) 🚀
